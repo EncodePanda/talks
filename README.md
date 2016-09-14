@@ -149,3 +149,11 @@ _Status_:  ▒▒▒▒▒▒▒▒▒▒ 0%
 This talk is a tribute to a "Functional Programming with Bananas, Lenses,
 Envelopes and Barbed Wire" paper by Erik Meijer, Maarten Fokkinga and
 Ross Paterson. This is a journey to roots and wonders of Functional Programming. A clear and pure essence of knowledge - so much needed by young FP  apprentices. The objective here is to familiarise audience with concepts described in this paper.
+
+## Lightning talks
+
+### "The Cats toolbox: a quick tour of some basic typeclasses"
+
+_Status_: :ballot_box_with_check:
+
+It’s happened to all of us: we ran away from some conversation or library because it kept on using those “weird” phrases. You know, like “type classes”, “semigroups”, “monoids”, “applicatives”. Yikes! They all seem so academic, so pointlessly detached from real-world problems. But then again, given how frequently we run into them in functional programming, are they REALLY irrelevant, or do they have real-world applications? Paweł will start helping us make sense of the gobbledygook and we can continue in a later session.
