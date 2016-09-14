@@ -16,7 +16,7 @@ Free monad is a concept that forges that idea into practical solution. It allows
 
 ### “Going bananas with recursion schemas for fixed point data types”
 
-_Status_: :white_medium_square: █▒▒▒▒▒▒▒▒▒
+_Status_: █▒▒▒▒▒▒▒▒▒ 10%
 
 In 1991 Erik Meijer, Maarten Fokkinga, and Ross Paterson published "Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire." This paper is a classic one, widely recognizable in the FP community. Constructs described - known as recursion schemas - have real world applications. Strictly speaking, explicit recursion is the ‘goto’ of pure functional programming. Recursion schemas provide same level of sanity as loops did for structural programming back in the day.
 
@@ -29,13 +29,13 @@ Code examples are in Scala. Code examples use Matryoshka - which is an open sour
 
 ### “Let's talk about Spark internals!”
 
-_Status_: :white_medium_square: ████████▒▒
+_Status_:  ████████▒▒ 85%
 
 This talk introduce a bit more details about Apache Spark internals. We will cover:| a) quick intro to how RDDs are implemented b) Apache Spark memory model (the one introduced in 1.6.0) c) available shuffling algorithms We will see some slides but will also go deep down into the Apache Spark code base
 
 ### “Writing your own RDD for fun and profit”
 
-_Status_: :ballot_box_with_check: ██████████
+_Status_: :ballot_box_with_check:
 
 You all know what RDD stands for, right? You have the mental model of a distributed collection. But have you ever consider writing your own RDD? During this talk we will do just that. We will start by explaining essence of how RDDs are implemented internally, following by semi-live demo (*), where we will implement few RDDs from the scratch.
 After this talk you will not only be able to write your own RDD, but you will also have a deeper understanding of how Apache Spark works under the hood. 
