@@ -157,3 +157,10 @@ Ross Paterson. This is a journey to roots and wonders of Functional Programming.
 _Status_: :ballot_box_with_check:
 
 It’s happened to all of us: we ran away from some conversation or library because it kept on using those “weird” phrases. You know, like “type classes”, “semigroups”, “monoids”, “applicatives”. Yikes! They all seem so academic, so pointlessly detached from real-world problems. But then again, given how frequently we run into them in functional programming, are they REALLY irrelevant, or do they have real-world applications? Paweł will start helping us make sense of the gobbledygook and we can continue in a later session.
+
+
+
+# My Bio:
+
+Pawel Szulc is primarily a programmer. Always was and always will be. Experienced professionally in JVM ecosystem, currently having tons of fun with Scala and Haskell. Humble apprentice of Functional Programming. Runs a blog http://www.rabbitonweb.com
+
