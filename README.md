@@ -53,9 +53,9 @@ Free monad is a concept that forges that idea into practical solution. It allows
 
 
 
-### “Going bananas with recursion schemas for fixed point data types”
+### “Going bananas with recursion schemes for fixed point data types”
 
-_Status_: █▒▒▒▒▒▒▒▒▒ 10%
+_Status_: ████▒▒▒▒▒▒ 40%
 
 In 1991 Erik Meijer, Maarten Fokkinga, and Ross Paterson published "Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire." This paper is a classic one, widely recognizable in the FP community. Constructs described - known as recursion schemas - have real world applications. Strictly speaking, explicit recursion is the ‘goto’ of pure functional programming. Recursion schemas provide same level of sanity as loops did for structural programming back in the day.
 
