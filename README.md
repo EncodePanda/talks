@@ -142,6 +142,16 @@ Presentation will be mix of slides and code examples.
 
 ## Papers We Love
 
+### “Software Engineering - the genesis”
+
+_Status_:  ▒▒▒▒▒▒▒▒▒▒ 0%
+
+In 1968 there was a conference held by NATO on "Software Engineering". In fact that was the first time that term was ever used. The committee used the term to be a bit provocative, implying that industry should be more based on more traditional foundations (like those that are established in more mature branches of engineering). 
+
+But what does this have to do with us. Is there anything we can learn from the speakers that held the conference almost half of the century ago? Can lessons be learned? You might be surprised how much. Curious? Join my session to learn more.
+
+
+
 ### “Day when bananas, lenses, envelopes and barbed wire opened my eyes”
 
 _Status_:  ▒▒▒▒▒▒▒▒▒▒ 0%
