@@ -2,6 +2,11 @@
 
 This a collection of my talks.
 
+# Software Engineering
+
+## "Spanner breaks the CAP theorm" - CAP is not a theorem and spanner does not break it. 
+This talk is inspired by recently published paper by Google Research Lab: "Spanner, TrueTime and the CAP Theorem". It spawned tremendous amount of conversations over twitter, reddit and forums. Aim of this talk is to provide explantion of what CAP theoremis - what is so special about it, that it can spontainously spawn so vivid discusions over the Internet. In this talk we will first expand the acronym, learning what C, A & P represent. We will start with such papers as P. Bailis and K. Kingsbury "The Network is Reliable",  E. Brewer. "CAP Twelve Years Later: How the 'Rules' Have Changed" to quickly jump into Martin Kleppmann "A Critique of the CAP Theorem" to finally finshed the talk with discusion over recent Google's paper "Spanner, TrueTime and the CAP Theorem". 
+
 ## JVM
 
 ### “Demystifying folklore beliefs with JVM bytecode for Scala developers.” 
