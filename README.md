@@ -27,7 +27,7 @@ In this talk we will learn all the necessary basics of the JVM bytecode and then
 ### Getting more Mileage from your Monads with MTL
 MTL stands for Monads Transformers Library, but it has barely little in common with monad transformers. Well that's confusing, right? To be honest, in the ancient times, in some long forgotten, prehistoric version of Haskell, MTL was a library holding monad transformers - but those times are long forgotten.
 
-In a nutshell, MTL provides set of abstractions (defined as typeclasses) over many useful patterns that can be applied to types. This allows to write a lot more generic & maintainable code, with noticeably less amount of boilerplatte. MTL brings a a breath of fresh air to pure FP projects that heavily relay on effectful computations closed over monads.
+In a nutshell, MTL provides set of abstractions (defined as typeclasses) over many useful patterns that can be applied to types. This allows to write a lot more generic & maintainable code, with noticeably less amount of boilerplatte. MTL brings a a breath of fresh air to pure FP projects that heavily rely on effectful computations closed over monads.
 
 Intrigued? Confused? Or maybe both? You should see my talk, it will be fun & instructive.
 
