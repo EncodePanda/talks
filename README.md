@@ -162,7 +162,7 @@ In 1968 there was a conference held by NATO on "Software Engineering". In fact t
 
 But what does this have to do with us. Is there anything we can learn from the speakers that held the conference almost half of the century ago? Can lessons be learned? You might be surprised how much. Curious? Join my session to learn more.
 
-
+https://www.slideshare.net/paulszulc/software-engineering-the-genesis
 
 ### “Day when bananas, lenses, envelopes and barbed wire opened my eyes”
 
