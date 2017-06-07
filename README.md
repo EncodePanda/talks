@@ -24,6 +24,15 @@ In this talk we will learn all the necessary basics of the JVM bytecode and then
 
 ## Functional Programming
 
+### Say Monad one more time...
+note: This is *not* yet another introduction to monads.
+
+Monads, monads, monads.... it seems that there can not be a single Scala conference without mentioning the "M" word at least once. I heard so many times that FP is so pointlessly detached from real-world problems. That it adds nothing but unnecessary complexity - obfuscating both problem and solution of already hard to comprehens domain.
+
+This talk is about Functional Programming in general. It covers some of the gobbledygook like Functors or Applicatives, but it is more about core concepts really: handling complexity in comprehansible, modular manner. It'a about power of abstraction - undervalued, powerful concept.
+
+We will not be talking about monads. I promise.
+
 ### Getting more Mileage from your Monads with MTL
 MTL stands for Monads Transformers Library, but it has barely little in common with monad transformers. Well that's confusing, right? To be honest, in the ancient times, in some long forgotten, prehistoric version of Haskell, MTL was a library holding monad transformers - but those times are long forgotten.
 
