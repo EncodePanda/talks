@@ -2,6 +2,14 @@
 
 This a collection of my talks.
 
+# Recent
+
+## "From λ-calculus to π-calculus in Haskell"
+
+In the late 1960s it was already well established fact, that any arbitrary complex programming language can be represented as a evidently tiner "core" language. For decades Lambda Calculus was considered sucha a language. A formal system to which any language could be compiled down to. However with rise of distributed systems and multicore architecutres, industry needed a new formalism, to represent calculations that run concurrently. Pi Calculus is one of the many so called "process calculi" that are being researched and studied at the moment.
+This presentation indroduces a Haskell package called distributed-process, which allows message-passing programming similar to the one known in Erlang or in Akka (Scala). Pi Calculus will be discussed with correspondance to that package.
+Attendees should be familiar with simple Haskell syntax, however some limited introduction to the language will be covered as well.
+
 # Software Engineering
 
 ## "Spanner breaks the CAP theorm" - CAP is not a theorem and spanner does not break it. 
