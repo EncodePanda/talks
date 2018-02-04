@@ -4,6 +4,14 @@ This a collection of my talks.
 
 # Recent
 
+## "Understanding Distributed Calculi in Haskell"
+In the late 1960s it was already well established fact, that any arbitrary complex programming language can be represented as a evidently tiner "core" language. For decades Lambda Calculus was considered such a language. A formal system to which any language could be compiled down to. However with rise of distributed systems and multicore architecutres, industry needed a new formalism to represent calculations that run concurrently. 
+This talk is an introduction to process calculus - a family of related formalisms that model concurrent systems. They Process calculi provide a tool for the high-level description of interactions, communications, and synchronizations between a collection of independent agents or processes. They also provide algebraic laws that allow process descriptions to be manipulated and analyzed, and permit formal reasoning about equivalences between processesindtroduce two of so called "process calculi": Pi-calculus and Rho-calculus. We show how naturally Pi-Calculus derives from Lambda calculus
+Pi Calculus is one of the many so called "process calculi" that are being researched and studied at the moment.
+This presentation indroduces a Haskell package called distributed-process, which allows message-passing programming similar to the one known in Erlang or in Akka (Scala). Pi Calculus will be discussed with correspondance to that package.
+Attendees should be familiar with simple Haskell syntax, however some limited introduction to the language will be covered as well.
+
+
 ## "From λ-calculus to π-calculus in Haskell"
 
 In the late 1960s it was already well established fact, that any arbitrary complex programming language can be represented as a evidently tiner "core" language. For decades Lambda Calculus was considered sucha a language. A formal system to which any language could be compiled down to. However with rise of distributed systems and multicore architecutres, industry needed a new formalism, to represent calculations that run concurrently. Pi Calculus is one of the many so called "process calculi" that are being researched and studied at the moment.
