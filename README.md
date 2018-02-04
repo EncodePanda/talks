@@ -5,18 +5,9 @@ This a collection of my talks.
 # Recent
 
 ## "Understanding Distributed Calculi in Haskell"
-In the late 1960s it was already well established fact, that any arbitrary complex programming language can be represented as a evidently tiner "core" language. For decades Lambda Calculus was considered such a language. A formal system to which any language could be compiled down to. However with rise of distributed systems and multicore architecutres, industry needed a new formalism to represent calculations that run concurrently. 
-This talk is an introduction to process calculus - a family of related formalisms that model concurrent systems. They Process calculi provide a tool for the high-level description of interactions, communications, and synchronizations between a collection of independent agents or processes. They also provide algebraic laws that allow process descriptions to be manipulated and analyzed, and permit formal reasoning about equivalences between processesindtroduce two of so called "process calculi": Pi-calculus and Rho-calculus. We show how naturally Pi-Calculus derives from Lambda calculus
-Pi Calculus is one of the many so called "process calculi" that are being researched and studied at the moment.
-This presentation indroduces a Haskell package called distributed-process, which allows message-passing programming similar to the one known in Erlang or in Akka (Scala). Pi Calculus will be discussed with correspondance to that package.
-Attendees should be familiar with simple Haskell syntax, however some limited introduction to the language will be covered as well.
+In the late 1960s it was already well established fact, that any arbitrary complex programming language can be represented as an evidently tiner "core" language. Lambda calculus or Turing machines are one of the well known examples of such languages. However they all shared common constrain - ability to model only sequential computation. With rise of distributed systems and multicore architecutres, industry needed a new formalism to represent calculations that run concurrently. This talk is an introduction to process calculus - a family of related formalisms that model concurrent systems. They describe high-level interactions between a collection of independent processes and also algebraic laws that allow process descriptions to be analyzed and reasoned about their equivalences.
 
-
-## "From λ-calculus to π-calculus in Haskell"
-
-In the late 1960s it was already well established fact, that any arbitrary complex programming language can be represented as a evidently tiner "core" language. For decades Lambda Calculus was considered sucha a language. A formal system to which any language could be compiled down to. However with rise of distributed systems and multicore architecutres, industry needed a new formalism, to represent calculations that run concurrently. Pi Calculus is one of the many so called "process calculi" that are being researched and studied at the moment.
-This presentation indroduces a Haskell package called distributed-process, which allows message-passing programming similar to the one known in Erlang or in Akka (Scala). Pi Calculus will be discussed with correspondance to that package.
-Attendees should be familiar with simple Haskell syntax, however some limited introduction to the language will be covered as well.
+This talk describes in detail two process calculi: Pi Calculus and its natural successor Rho Calculus. Haskell library called distributed-process (also known as Cloud Haskell) will be used to show live code examples. Cloud Haskell is a library which allows message-passing programming style, similar to the one known in Erlang or Akka (Scala). Attendees should be familiar with simple Haskell syntax and Lambda Calculus, however some limited introduction to both the language and the formalism will be covered as well.
 
 # Software Engineering
 
